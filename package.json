@@ -1,0 +1,14 @@
+{
+  "name": "NODE.JS-IMAGEWATERMARK",
+  "version": "1.0.0",
+  "description": "dsdws",
+  "main": "sd",
+  "repository": "sds",
+  "author": "ddd",
+  "license": "dd",
+  "private": null,
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "^0.16.1"
+  }
+}
